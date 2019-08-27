@@ -1,0 +1,2 @@
+#Cloudformation Sample for AWS -Created on 27th August 
+https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/sample-templates-services-us-west-2.html#w2ab1c23c48c13c17
